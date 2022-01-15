@@ -1,0 +1,49 @@
+.image{
+    text-align: center;    
+}
+.input{
+    padding-top: 10px;
+    padding-bottom: 20px;
+    text-align: center;
+    background: rgb(194, 194, 194);
+
+}
+.container{
+
+    padding-top: 300px;
+}
+#input{
+
+    width: 300px;
+}
+.boxes{
+    width: 100%;
+    display:flex;
+    text-align: center;
+    height: 80px;
+}
+.kutu1{
+    border: white solid 1px;
+    padding-top: 10px;
+    float: left; 
+    width: 75%;
+    background-color: rgb(167, 218, 220);
+    
+}
+.kutu2{
+    border: white solid 1px;
+    padding-top: 3px;
+    float: left; 
+    width: 40%;
+    background-color: rgb(122, 199, 193);
+
+}
+.kutu3{
+    border: white solid 1px;
+    float: left; 
+    width: 100%;
+    background-color: rgb(66, 169, 150);
+}
+#link{
+    margin-bottom: 10px;
+}
