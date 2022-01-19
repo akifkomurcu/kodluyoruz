@@ -1,0 +1,12 @@
+html>body{
+    background-color: #E9ECEF;
+}
+.jumbotron{
+
+    text-align: center;
+}
+.ortala{
+    
+    display: flex;
+    justify-content: center;
+}
